@@ -6,13 +6,21 @@ I. Users Dataset
 DATA DICTIONARY - Users Dataset
 
 user_id : Client ID on the platform
+
 register_import_datetime : user register date for the first time
+
 user_gender : gender of user
+
 age : age of user
+
 user_occupation : user's occupation
+
 user_income_range : user's income range
+
 referral_code_used : user's referral code used
+
 user_income_source : user's income source
+
 
  II. Transactions Dataset
 DATA DICTIONARY - Daily User Balance Sept 2021
